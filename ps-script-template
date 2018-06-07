@@ -1,0 +1,15 @@
+<#	
+	.NOTES
+	===========================================================================
+	Title:      O365-ConnectPowerShell
+	Created by: Neil Grinnall
+	===========================================================================
+	.DESCRIPTION
+		- what does the script do
+
+  .REQUIREMENTS
+    - include any software or settings
+
+  .USE
+    - how to execute the script
+#>
